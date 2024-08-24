@@ -39,7 +39,7 @@ Support the author
 
 ## Compilation and Installation
 ```
-sudo apt-get install build-essential git cmake fakeroot
+pkg install cmake
 git clone --recursive https://github.com/rozhuk-im/msd_lite.git
 cd msd_lite
 mkdir build
